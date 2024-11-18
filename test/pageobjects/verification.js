@@ -1,6 +1,5 @@
 import { $ } from '@wdio/globals'
 import Site from './website.js'
-import Hamburger from './hamburger.menu.js'
 
 class Verify extends Site {
     get Menu () {
